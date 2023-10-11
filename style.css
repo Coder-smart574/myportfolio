@@ -361,7 +361,7 @@ section .title::after{
 /* skills section styling */
 
 .skills .title::after{
-    content: "TERM-2 CLASS-8";
+    content: "PT-1 CLASS-10";
 }
 .skills .skills-content .column{
     width: calc(50% - 30px);
